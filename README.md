@@ -1,4 +1,25 @@
 # Rubric
+## Description
+
+My Web Application is a Blogging Application where the user can create an account and then log in where it shows a blogging home page. At blogging home page it shows the lists of different articles. The user can select the articles according to its need it shows the complete detail of the article and its writer. The user can also write articles by clicking the create blog option mentioned above. The created articles are displayed on the home page. The user can select their own articles by clicking the My blogs option. The user can also delete their own articles. 
+## Bugs & Issues
+There's no bug or any issue. 
+
+## Languages & Technologies 
+
+| Frontend  | Backend |
+| ------------- | ------------- |
+| Js (JavaScript)  | Node js  |
+| Es6 (ECMA Script)  | Express js  |
+| React  | Axios  |
+| Css  | MYSQL  |
+| React-Bootstrap  | phpmyadmin  |
+| LocalStorage  | Nodemon  |
+
+
+## ERD Diagram
+<a href="https://ibb.co/zRNZZxx"><img src="https://i.ibb.co/YkbhhQQ/Erd-Diagram.jpg" alt="Erd-Diagram" border="0"></a>
+
 ## Requirments
 
 You need these tools to run this project
@@ -46,11 +67,3 @@ npm start
 npm start
 ```
 ### Finally your project will be work fine!
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
